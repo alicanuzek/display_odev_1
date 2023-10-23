@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(to right, #312A29, #6e623a, #88775A);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+#baslik {
+    color: white;
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.list {
+    color: white;
+}
+
+#yorum {
+    color: white;
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#buton {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img {
+    border-radius: 10px;
+}
